@@ -34,5 +34,5 @@ I like building things end to end: messy data in, working product out.
 
 ### Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-diego--leyvag-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-leyvag)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diegoaleyvag-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/diegoaleyvag)
 [![Email](https://img.shields.io/badge/Email-leyva.garcia.diego.alejandro%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leyva.garcia.diego.alejandro@gmail.com)
